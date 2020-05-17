@@ -1,0 +1,12 @@
+book_filename: "predictive-analytics-supplementary-notes"
+repo: https://github.com/daniellinders/predictive-analytics-supplementary-notes/
+output_dir: _book
+clean: [packages.bib, predictive-analytics-supplementary-notes.bbl]
+delete_merged_file: true
+language:
+  label:
+    fig: "FIGURE "
+    tab: "TABLE "
+  ui:
+    edit: "Edit"
+    chapter_name: "Chapter "

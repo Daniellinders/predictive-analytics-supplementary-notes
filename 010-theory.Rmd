@@ -1,0 +1,9 @@
+# Theoretical Results {-}
+
+> Nothing is more practical than a good theory.
+
+<center>
+
+![Vladimir Naumovich Vapnik ^[Source: Data Science Institute, Columbia University, https://datascience.columbia.edu/vladimir-vapnik]](./images/quotes/Vladimir-Naumovich-Vapnik.png)
+
+</center>
